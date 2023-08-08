@@ -53,13 +53,9 @@
  
  
  <a href="https://github.com/puppeteer/puppeteer" target="_blank">
- 
-<img
     <a href="https://git-scm.com/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
-  <a href="https://git-scm.com/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   
 <br/>
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
