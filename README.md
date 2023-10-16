@@ -42,12 +42,16 @@
 <br/>
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 <h2><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="35"> Github Stats and Activity</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedsaeid1998&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedsaeid1998&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="most used languages" />
 
 <p align="center">      
 <a href="https://github.com/mohamedsaeid1998">
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mohamedsaeid1998&show_icons=true&theme=gruvbox&hide_border=true" />
-<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedsaeid1998&theme=gruvbox&hide_border=true" />
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mohamedsaeid1998&show_icons=true&locale=en&theme=vision-friendly-dark" />
+<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedsaeid1998&theme=vision-friendly-dark" />
 </a>
 </p>
 
