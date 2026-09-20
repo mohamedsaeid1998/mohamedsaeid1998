@@ -6,7 +6,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=2196F3&center=true&width=435&lines=Front-End+Web+Developer+ (React .JS);Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Front-End+Web+Developer+(React.js);Always+Learning+New+Things!" alt="Front-End Web Developer" />
 </p>
 
 <h2><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About Me</h2> 
@@ -64,5 +64,7 @@
 <a href="https://www.facebook.com/moahmedsaeid.mohamed" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=01000722670)
+<a href="https://wa.me/201000722670" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-075e54?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 <br/><br/>
